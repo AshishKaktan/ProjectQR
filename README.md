@@ -2,10 +2,10 @@
 
 ## Classes :
 1. [Encrypt](#encrypt)
-1. [Decrypt](decrypt)
-1. [QRDecode](qrdecode)
-1. [deleteQr](deleteqr)
-1. [readqr](readqr)
+1. [Decrypt](#decrypt)
+1. [QRDecode](#qrdecode)
+1. [deleteQr](#deleteqr)
+1. [readqr](#readqr)
 
 ## Functions :
 ### Encrypt
